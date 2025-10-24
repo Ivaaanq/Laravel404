@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRuule ^(.*)$ public/1$
